@@ -30,7 +30,7 @@ export default function Home() {
             href="https://www.youtube.com/channel/UCDJpp6iGI5kYgiJddDHdlEg"
             className={styles.card}
           >
-            <h2>OnlyFans de Jhon &rarr;</h2>
+            <h2>FanPage de Jhon &rarr;</h2>
             <p>Calma gente, só tem música.</p>
           </a>
 
@@ -40,7 +40,7 @@ export default function Home() {
           >
             <h2>Sites Inúteis&rarr;</h2>
             <p>
-              Olha, fiquei sem ideia do que colocar nessa demo, então vai uma página engraçada.
+              Eita, fiquei sem ideia do que colocar nessa demo, então vai uma página engraçada.
             </p>
           </a>
         </div>
